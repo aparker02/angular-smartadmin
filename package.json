@@ -70,6 +70,7 @@
     "dropzone": "^4.3.0",
     "dygraphs": "^1.1.1",
     "fuelux": "^3.15.8",
+    "golden-layout": "^1.5.7",
     "he": "^1.1.0",
     "highcharts": "^4.2.7",
     "ion-rangeslider": "^2.1.4",
