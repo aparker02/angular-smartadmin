@@ -1,5 +1,8 @@
-# my steps
-download and unpack smartadmin into project folder
+# My Installation
+
+[ Download ](https://wrapbootstrap.com/theme/smartadmin-responsive-webapp-WB0573SK0) Smart Admin theme.
+I used the Angular 2 - lite version so that jquery and bootstrap would already be included
+
 using command prompt:
 ```shell
 ng init
@@ -7,6 +10,21 @@ ng init
 answer 'no' when asked to overwrite exising files.
 
 add Golden Layout
+
+```shell
+npm install golden-layout --save
+
+npm install
+```
+
+When it's time to use the seed project, these libraries need to be installed:
+```shell
+npm install --save jquery amcharts google-maps bootstrap golden-layout
+
+npm install
+```
+jquery-ui?
+
 
 
 # Smartadmin
